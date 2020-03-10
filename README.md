@@ -82,3 +82,5 @@ sudo apt-get install nodejs
 * [firebase-cli](https://firebase.google.com/docs/cli#install-cli-mac-linux)
 
 * [nest.js-cli](https://docs.nestjs.com/cli/overview)
+
+* git
